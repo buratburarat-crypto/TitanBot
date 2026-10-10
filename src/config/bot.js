@@ -23,7 +23,7 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Playing", // required by Discord API, not shown in the client
+        name: "https://cdn.discordapp.com/attachments/1557372647900315778/1558468109336051772/Gemini_Generated_Image_sc2r4rsc2r4rsc2r.jpg?ex=6acb8c08&is=6aca3a88&hm=05f34542b35d3c9728c669fe8fda8536b9b78fea30fdbe381a0131b23fa2ac10", // required by Discord API, not shown in the client
         state: "SELDA RP",     // this is what people actually see
         type: 0,               // Playing
       },
